@@ -10,7 +10,7 @@ La aplicación se actualiza cada vez que lo haga la API de aire madrid.
 
 [Aire Madrid](http://airemadrid.herokuapp.com/)
 
-![mook-up](./images/mook-up.jpg)
+![mook-up](public/images/mook-up.jpg)
 
 Espero que os guste!
 
